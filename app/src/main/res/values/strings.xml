@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seeker</string>
+    <string name="search_menu_title">Search</string>
+    <string name="text_view_error">Result couldn\'t be loaded</string>
+    <string name="retry_button">Retry</string>
+    <string name="text_view_empty">No results found for this query</string>
+</resources>
